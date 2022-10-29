@@ -1,0 +1,2 @@
+## 运行
+rm -rf bin/* && g++ *.cpp -pthread -o bin/main && bin/main 10000
